@@ -1,7 +1,16 @@
 ---
 layout: default
 ---
-
+<style>
+  .overline2 {
+      max-width: 200px;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;/* 行数 */
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+      text-overflow: ellipsis;
+  }
+</style>
 <div class="page clearfix" index>
     <div class="left">
         <h1>Welcome to GYH's Blog!</h1>
@@ -33,7 +42,7 @@ layout: default
                     {% include tag.html %}
                     </div>
                 </div>
-                <div class="excerpt">
+                <div class="overline2">
                     {{post.excerpt}}
                 </div>
                 <div class="read-all">
