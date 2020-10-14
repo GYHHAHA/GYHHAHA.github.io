@@ -11,13 +11,10 @@ type: page
 
 ## 关于我
 
-<iframe src="https://githubbadge.appspot.com/GYHHAHA" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
+* 华东师范大学 统计学 2017.7 - 至今
 
 ## 联系我
 
 * GitHub：[GYHHAHA](https://github.com/GYHHAHA)
 * email：1801214626@qq.com
-
-## Comments
-
-{% include comments.html %}
+* WeChat: gyhhahahaha
