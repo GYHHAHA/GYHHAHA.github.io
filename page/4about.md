@@ -15,6 +15,6 @@ type: page
 
 ## 联系我
 
-* GitHub：[GYHHAHA](https://github.com/GYHHAHA)
-* email：1801214626@qq.com
+* GitHub: [GYHHAHA](https://github.com/GYHHAHA)
+* email: 1801214626@qq.com
 * WeChat: gyhhahahaha
