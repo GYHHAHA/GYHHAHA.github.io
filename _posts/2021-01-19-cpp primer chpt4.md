@@ -42,3 +42,4 @@ https://www.zhihu.com/question/35776952/answer/64411299)
 ## 疑问
 
 - 字面量的大小是多少？
+- void指针能存常量吗？（P145）
